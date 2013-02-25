@@ -30,6 +30,6 @@ How to use it for configuring Wi-Fi for a new Raspbian system
 7. Input this command and press enter:  
    `sudo /boot/w.sh`  
    You may not see your entering without a screen - just relax. It's OK to do it blind. 
-8. Pi will be connected to the Wi-Fi network within several seconds. The indicator light on your Wi-Fi dongle (if exists) will light up and flash. 
+8. Wi-Fi connection will be established within several seconds. The indicator light on your Wi-Fi dongle (if exists) will light up and flash. 
 
-
+You can connect to your Raspberry Pi via SSH. Pi's IP address can be found in router admin interface, or using an IP scanner software. 
